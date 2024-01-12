@@ -1,1 +1,43 @@
+[
+    {
+        "image_": "Images/al-elmes-ULHxWq8reao-unsplash.jpg",
+        "date_": "SUNDAY 27 FEB 2024",
+        "title_": "AMY'S WEDDING",
+        "location_": "NOTTINGHAM",
+        "price_": "FREE",
+        "type_": "WEDDING"
+    },
+    {
+        "image_": "Images/The oddballs.jpeg",
+        "date_": "SATURDAY 1 JUN 2024",
+        "title_": "THE ODDBALLS",
+        "location_": "LONDON",
+        "price_": "FROM £7.00",
+        "type_": "SPORT"
+    },
+    {
+        "image_": "Images/Disney.jpeg",
+        "date_": "SATURDAY 1 JUN 2024",
+        "title_": "THE DISNEY QUIZ",
+        "location_": "NOTTINGHAM",
+        "price_": "FROM £4.00",
+        "type_": "TRIVIA"
+    },
+    {
+        "image_": "Images/Bingo.jpeg",
+        "date_": "TUESDAY 23 JAN 2024",
+        "title_": "Clifton Bingo: On Safari",
+        "location_": "NOTTINGHAM",
+        "price_": "FROM £6.00",
+        "type_": "TRIVIA"
+    },
+    {
+        "image_": "Images/Co.jpeg",
+        "date_": "TUESDAY 16 JAN 2024",
+        "title_": "COMEDY BOX",
+        "location_": "NOTTINGHAM",
+        "price_": "FROM £4.00",
+        "type_": "COMEDY"
+    }
+]
 
